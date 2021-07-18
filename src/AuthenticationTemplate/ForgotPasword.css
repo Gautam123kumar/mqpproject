@@ -1,0 +1,21 @@
+.fogot__form{
+    margin-top: 10rem;
+    width: 70%;
+}
+.inputText__fogot{
+    text-align: left;
+    font: normal normal bold 24px/30px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    position: absolute;
+    top: 7rem;
+}
+
+.rightSideCol__fogot{
+    height: 660px;
+    background-color: red;
+}
+.fogot__btn{
+    width: 100%;
+}

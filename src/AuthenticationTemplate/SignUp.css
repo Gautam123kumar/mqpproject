@@ -1,0 +1,37 @@
+.rightSideCol__signup{
+    height: 660px;
+    background-color: red;
+}
+.inputText__signup{
+    text-align: left;
+    font: normal normal bold 28px/30px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    position: absolute;
+    top: 7rem;
+    width: 100%;
+}
+.signup__form{
+    margin-top: 10rem;
+    width: 60%;
+}
+.showHide__signupset{
+    margin-left: 21rem;
+    margin-top: -4rem;
+}
+.showHide__signupconf{
+    margin-left: 21rem;
+    margin-top: -4rem;
+}
+.conf__password{
+    margin-top: -20px;
+}
+.checkbox__signup{
+    margin-top: -1rem;
+}
+
+.singup__btn{
+    width: 100%;
+    margin-top: -1rem;
+}
